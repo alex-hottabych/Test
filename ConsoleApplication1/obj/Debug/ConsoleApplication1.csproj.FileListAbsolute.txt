@@ -1,0 +1,9 @@
+C:\Users\i65845\Desktop\Jetbrains\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.vbprojResolveAssemblyReference.cache
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.GenerateResource.Cache
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+C:\Users\Alexander.Kurakin\Downloads\Jetbrains\Jetbrains\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
